@@ -1,0 +1,8 @@
+{
+  "products": [
+    {
+      "id": "P1",
+      "name": "Product 1",
+      "category": "Electronics",
+      "price": 100.92,
+      "in_stock": 
